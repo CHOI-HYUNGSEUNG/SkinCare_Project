@@ -15,3 +15,7 @@ venv/
 
 # Secrets
 .env
+
+# 학습 모델 가중치
+*.pth
+*.pt
